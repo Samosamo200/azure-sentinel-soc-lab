@@ -1,4 +1,4 @@
-# 08 – Azure Sentinel SOC Lab
+# Azure Sentinel SOC Lab
 
 A hands-on SOC lab in **Microsoft Sentinel**: a Windows 11 endpoint onboarded with **Azure Arc**, security logs collected with the **Azure Monitor Agent (AMA)**, analytics rules mapped to **MITRE ATT&CK**, and a full incident triage workflow from detection to closure.
 
